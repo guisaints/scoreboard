@@ -1,0 +1,8 @@
+scoreboard:
+  title: "&d&lKOTLIN"
+  lines:
+    - "&7Olá %score_player% "
+    - "&7bem vindo(a) a"
+    - "&7a nossa rede!"
+    - "&7"
+    - "&dmc.redekotlin.com"
